@@ -19,6 +19,8 @@
 * [ ] Add your project manager as a reviewer on the pull-request
 * [ ] Your project manager will count the project as complete by merging the branch back into master.
 
+TO DO:
+
 ## Assignment Description
 
 * Complete all the exercises as described inside each assignment file.
