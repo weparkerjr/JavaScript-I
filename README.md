@@ -19,6 +19,8 @@
 * [ ] Add your project manager as a reviewer on the pull-request
 * [ ] Your project manager will count the project as complete by merging the branch back into master.
 
+TO DO:
+
 ## Assignment Description
 
 * Complete all the exercises as described inside each assignment file.
@@ -29,7 +31,7 @@
 
 * Once you finish the exercises in each file, commit your code, and push it to your fork.
 
-### Objects
+### Objects - DONE!
 
 To better understand objects, you really just need to write more of them. The [objects.js](assignments/objects.js) file contains several challenges centered around a theme of interns starting at a new job. The Human Resources team needs information about the new hires. Use your new found object skills answer vital questions for HR.
 
